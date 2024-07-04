@@ -1,3 +1,10 @@
 div{
     background-color: black;
+    padding: 10px;
+
+}
+input{
+    color: black;
+    background-color: aqua;
+    padding: 20px;
 }
